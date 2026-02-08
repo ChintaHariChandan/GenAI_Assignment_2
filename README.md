@@ -17,7 +17,6 @@ Each activation function includes:
 ✔ Sigmoid  
 ✔ Softmax  
 ✔ Tanh  
-
 ✔ ReLU  
 ✔ Leaky ReLU  
 ✔ ELU  
