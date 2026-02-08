@@ -16,7 +16,8 @@ Each activation function includes:
 ## 🔢 Activation Functions Implemented
 ✔ Sigmoid  
 ✔ Softmax  
-✔ Tanh 
+✔ Tanh  
+
 ✔ ReLU  
 ✔ Leaky ReLU  
 ✔ ELU  
