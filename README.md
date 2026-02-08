@@ -15,10 +15,10 @@ Each activation function includes:
 
 ## 🔢 Activation Functions Implemented
 ✔ Sigmoid  
+✔ Softmax  
+✔ Tanh 
 ✔ ReLU  
 ✔ Leaky ReLU  
-✔ Tanh  
-✔ Softmax  
 ✔ ELU  
 ✔ Swish  
 
